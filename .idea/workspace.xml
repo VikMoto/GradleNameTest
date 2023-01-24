@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7a133f2d-9999-4505-b57b-5a4324c01394" name="Changes" comment="GradleNameTest 10.01.2023">
-      <change afterPath="$PROJECT_DIR$/data.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/FactorialTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+    <list default="true" id="7a133f2d-9999-4505-b57b-5a4324c01394" name="Changes" comment="GradleNameTest 15.01.2023">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -224,7 +218,21 @@
       <option name="project" value="LOCAL" />
       <updated>1673375933329</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="GradleNameTest 15.01.2023">
+      <created>1673736524962</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673736524962</updated>
+    </task>
+    <task id="LOCAL-00003" summary="GradleNameTest 15.01.2023">
+      <created>1673776461544</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1673776461544</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -240,7 +248,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="GradleNameTest 10.01.2023" />
-    <option name="LAST_COMMIT_MESSAGE" value="GradleNameTest 10.01.2023" />
+    <MESSAGE value="GradleNameTest 15.01.2023" />
+    <option name="LAST_COMMIT_MESSAGE" value="GradleNameTest 15.01.2023" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

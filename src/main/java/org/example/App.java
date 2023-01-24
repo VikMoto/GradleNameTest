@@ -11,9 +11,9 @@ public class App {
     public static void main(String[] args) throws FileNotFoundException {
         Map<String, String> human = Map.of(
                 "name",
-                "Viktor",
+                "Vik",
                 "lastName",
-                "Motovilov"
+                "Pupkin"
         );
 
         Gson gson = new Gson();
